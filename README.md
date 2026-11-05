@@ -71,8 +71,6 @@ To also remove the settings and data of an app, use `brew uninstall --zap --cask
 
 Frit, the glaze recipe book, is not in this tap yet. Download it from https://github.com/theluckystrike/frit/releases.
 
-CallReady and MicAnchor use the same settings folder. If you zap one of them, the settings of the other go too.
-
 ## Support this work
 
 These apps are free. If one saves you time, you can support more of them: [GitHub Sponsors](https://github.com/sponsors/theluckystrike) · [PayPal](https://paypal.me/najzzz) · [Buy Me a Coffee](https://buymeacoffee.com/michaellip)
