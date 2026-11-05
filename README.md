@@ -6,7 +6,13 @@ Each cask downloads the signed disk image from the GitHub release of the app. Ap
 
 ## Install
 
-Install one app:
+Homebrew 7 loads casks from a tap only after you trust the tap. Trust this tap one time:
+
+```sh
+brew trust --tap theluckystrike/barframe
+```
+
+Then install one app:
 
 ```sh
 brew install --cask theluckystrike/barframe/<token>
