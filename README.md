@@ -35,7 +35,7 @@ To also remove the settings and data of an app, use `brew uninstall --zap --cask
 
 ## Apps
 
-29 casks.
+30 casks.
 
 | App | What it does | Install |
 |---|---|---|
@@ -47,6 +47,7 @@ To also remove the settings and data of an app, use `brew uninstall --zap --cask
 | CostBar | AI API cost & budget monitor | `brew install --cask theluckystrike/barframe/costbar` |
 | CronSpindle | Find schedule collisions | `brew install --cask theluckystrike/barframe/cronspindle` |
 | EnvTrellis | Check environment readiness | `brew install --cask theluckystrike/barframe/envtrellis` |
+| Frit | Glaze recipe book for potters | `brew install --cask theluckystrike/barframe/frit` |
 | HashDock | Verify every delivery copy | `brew install --cask theluckystrike/barframe/hashdock` |
 | Headroom Agent Memory | Memory pressure & swap budget | `brew install --cask theluckystrike/barframe/headroom` |
 | HushKey Mic Mute Hotkey | Hold to talk, release to mute | `brew install --cask theluckystrike/barframe/hushkey` |
